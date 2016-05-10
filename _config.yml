@@ -1,0 +1,28 @@
+name: wendybanks.com
+favicon: null
+layout_spectrum: 0.8918604759965092
+typography_spectrum: 0.09124702215194702
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.16373984864912927
+  lightness: 0.019435538910329342
+  saturation: 0.26767909759655595
+  rhythmicContrast: 0.08964318968355656
+purpose: []
