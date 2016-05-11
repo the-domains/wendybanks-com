@@ -1,14 +1,16 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: The gift of you...
-datePublished: '2016-05-11T09:00:29.091Z'
-dateModified: '2016-05-11T08:59:21.430Z'
-title: ''
-author: []
+datePublished: '2016-05-11T09:37:10.152Z'
+dateModified: '2016-05-11T09:37:03.984Z'
+title: Kori
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-11-unique-portraits.md
 authors: []
 publisher:
@@ -22,8 +24,8 @@ _type: Article
 
 ---
 Unique portraits
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a229958e-5a4e-42fb-b100-958bbeeb1d6e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/20f01961ec36ffc6d257982f45c58f73cf189cf9.jpg)
 
 The gift of you...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f92c773e-9bf1-4a3e-acc9-6d9188c1400b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc4a7dee-e3e2-4137-923c-aaa6990d276f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7aeb490328f84c3a438a1bf6f6f0608b0ca8115.jpg)
