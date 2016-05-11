@@ -1,6 +1,6 @@
-name: wendybanks.com
+name: WENDY
 favicon: null
-layout_spectrum: 0.8918604759965092
+layout_spectrum: 0.56367
 typography_spectrum: 0.09124702215194702
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#26221f'
+    - '#5b544e'
+    - '#756c65'
+    - '#f6e4d7'
+    - '#90867e'
   brandStrength: 0.16373984864912927
   lightness: 0.019435538910329342
   saturation: 0.26767909759655595
