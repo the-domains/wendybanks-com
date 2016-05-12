@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: The gift of you...
-datePublished: '2016-05-12T06:32:32.572Z'
-dateModified: '2016-05-12T06:28:20.556Z'
+datePublished: '2016-05-12T06:36:32.194Z'
+dateModified: '2016-05-12T06:36:28.609Z'
 title: Kori
 author:
   - name: ''
@@ -19,8 +20,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-url: unique-portraits/index.html
-_type: Article
+_type: Blurb
 
 ---
 Unique portraits
