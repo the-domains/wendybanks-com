@@ -1,45 +1,45 @@
-typography_spectrum: 0.4763695
-color:
-  saturation: 0.5
-  brandStrength: 0.9375
-  lightness: 0.3657357
-  brandColors:
-    - '#26221f'
-    - '#5b544e'
-    - '#756c65'
-    - '#f6e4d7'
-    - '#90867e'
-  rhythmicContrast: 0.75
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.57784
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-author:
-  email: wendy@wendybanks.com
-  url: www.wendybanks.com
-  name: Wendy Banks Hjert
-name: WENDY BANKS PORTRAITS
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
+title: WENDY BANKS PORTRAITS
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: WENDY BANKS PORTRAITS
-purpose: []
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.5
+  brandStrength: 0.9375
+  rhythmicContrast: 0.75
+  brandColors:
+    - '#26221f'
+    - '#5b544e'
+    - '#756c65'
+    - '#f6e4d7'
+    - '#90867e'
+  lightness: 0.3657357
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+author:
+  email: wendy@wendybanks.com
+  url: www.wendybanks.com
+  name: Wendy Banks Hjert
+name: WENDY BANKS PORTRAITS
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.4763695
+layout_spectrum: 0.02738989
