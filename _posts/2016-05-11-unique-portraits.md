@@ -1,25 +1,21 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-13T05:52:21.555Z'
-dateModified: '2016-05-13T05:52:07.727Z'
+datePublished: '2016-06-07T04:05:35.779Z'
+dateModified: '2016-06-07T04:05:34.782Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-05-11-unique-portraits.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
+url: from-the-bride-to-her-groom/index.html
 _type: Blurb
 
 ---
