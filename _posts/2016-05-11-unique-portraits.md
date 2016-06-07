@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-07T04:05:35.779Z'
-dateModified: '2016-06-07T04:05:34.782Z'
+datePublished: '2016-06-07T04:05:37.516Z'
+dateModified: '2016-06-07T04:05:36.775Z'
 title: ''
 author:
   - name: ''
@@ -14,7 +14,7 @@ author:
 sourcePath: _posts/2016-05-11-unique-portraits.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: from-the-bride-to-her-groom/index.html
 _type: Blurb
 
