@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T07:59:45.219Z'
+datePublished: '2016-09-03T06:40:30.643Z'
 sourcePath: _posts/2016-06-07-wendy-banks-photography.md
 inFeed: true
 isBasedOnUrl: null
@@ -8,7 +8,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-02T07:59:44.381Z'
+dateModified: '2016-09-03T06:40:29.477Z'
 title: WENDY BANKS PHOTOGRAPHY
 publisher: {}
 description: ''
